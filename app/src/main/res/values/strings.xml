@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Medi</string>
+
+    <string name="onb_title">Как к тебе обращаться?</string>
+    <string name="onb_subtitle">Имя останется только на этом устройстве. Никаких аккаунтов и облака.</string>
+    <string name="onb_hint">Твоё имя</string>
+    <string name="onb_continue">Продолжить</string>
+    <string name="onb_error">Введи имя, чтобы продолжить</string>
+
+    <string name="home_subtitle">Спокойствие начинается\nс тебя</string>
+    <string name="start_session">Начать сессию</string>
+    <string name="start_session_sub">Дыши. Замедляйся.\nБудь здесь и сейчас.</string>
+    <string name="start">Начать</string>
+    <string name="categories">Категории</string>
+    <string name="all">Все</string>
+
+    <string name="tab_home">Главная</string>
+    <string name="tab_sessions">Сессии</string>
+    <string name="tab_stats">Статистика</string>
+
+    <string name="settings">Настройки</string>
+    <string name="settings_name">Имя</string>
+    <string name="settings_sound">Звук природы</string>
+    <string name="settings_vibro">Вибрация в конце</string>
+    <string name="settings_reset">Сбросить статистику</string>
+    <string name="settings_reset_done">Статистика сброшена</string>
+    <string name="save">Сохранить</string>
+
+    <string name="stat_streak">дней\nподряд</string>
+    <string name="stat_total">всего времени</string>
+    <string name="stat_today">сессии\nсегодня</string>
+    <string name="stat_mood">Спокойнее</string>
+    <string name="stat_mood_sub">чем вчера</string>
+
+    <string name="session_ready">Готово</string>
+    <string name="session_inhale">Вдох</string>
+    <string name="session_hold">Задержи</string>
+    <string name="session_exhale">Выдох</string>
+    <string name="session_finish">Завершить</string>
+    <string name="session_pause">Пауза</string>
+    <string name="session_resume">Продолжить</string>
+</resources>
